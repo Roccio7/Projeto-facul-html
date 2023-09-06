@@ -1,0 +1,76 @@
+body{
+    
+}
+
+
+
+
+
+header{
+    text-transform: uppercase;
+    text-decoration:underline;
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+
+
+
+
+
+
+
+
+span{
+    position: relative;
+    bottom: -15vh;
+    font-size: 30px;
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+img{
+    position: relative;
+    bottom: -20vh;
+    height: 40vh;
+}
+
+
+
+.desc{
+    position: relative;
+    font-size: 22px;
+    bottom: -30vh;
+    color: black;
+}
+
+
+
+.pageline{
+    display: flex;
+    padding: 90px;
+    position: relative;
+    bottom: -35vh;
+    margin-left: 20vh;
+    border: 1px solid #bbb;
+   
+    width: 140vh;
+   
+}
+
+
+.pageline2{
+    position: relative;
+    margin-left: 10vh;
+}
+
+hr{
+    position: relative;
+    left: -77vh;
+}
